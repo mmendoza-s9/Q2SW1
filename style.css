@@ -1,0 +1,22 @@
+body {
+	text-align: left;
+	background-color:  black;
+}
+
+.footer {
+	background-color: #fad82f;
+	padding: 1px;
+	pading-left:1px;
+	text-align: center;
+	font-family: "Kanit", sans-serif;
+  	font-weight: 100;
+  	font-style: normal;
+}
+
+h3 {
+	text: #fad82f;
+}
+
+img {
+	width: 60px;
+}
