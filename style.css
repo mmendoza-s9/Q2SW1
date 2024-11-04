@@ -3,7 +3,8 @@ body {
 	background-color:  black;
 }
 
-.header {
+.header, 
+.footer {
 	background-color: #fad82f;
 	padding: 1px;
 	pading-left:1px;
